@@ -4,7 +4,6 @@
 </div>
 
 ![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
-![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
 
 ## Demo
