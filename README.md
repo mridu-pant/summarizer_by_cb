@@ -8,7 +8,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
 
 ## Demo
-(https://drive.google.com/file/d/11PCYzPyKBAzjkWpX7ZvuXabdomkEdH4O/view?usp=sharing)
+
+https://github.com/AdwitaSingh1711/summarizer_by_cb/assets/108565358/5840521a-f4f4-4ffb-99f9-139033b0551d
 
 ## Features
 1. Allows to extract text from PDF files, images, etc.
@@ -19,12 +20,13 @@ Backend Deployed [here](https://replit.com/@adwitaSINGH1/new-summarisertrial#mai
 
 ## Contributors
 
-| S.No | Github ID | Contribution |
-| — — — | — — — — — -| — — — — — |
-| 1. | [Mridu Pant](https://github.com/mridu-pant) | Frontend and Flutter Backend |
-| 2. | [Adwita Singh](https://github.com/AdwitaSingh1711) | ML Backend |
-| 3. | Yashika Nijhawan | Frontend  |
-| 4. | Akshita | Frontend  |
+| S.No | Github ID                                          | Contribution                 |
+| ---- | -------------------------------------------------- | ---------------------------- |
+| 1.   | [Mridu Pant](https://github.com/mridu-pant)        | Frontend and Flutter Backend |
+| 2.   | [Adwita Singh](https://github.com/AdwitaSingh1711) | ML Backend                   |
+| 3.   | Yashika Nijhawan                                   | Frontend                     |
+| 4.   | Akshita                                            | Frontend                     |
+
 
 ## Tech Stack
 
@@ -33,4 +35,3 @@ Backend Deployed [here](https://replit.com/@adwitaSINGH1/new-summarisertrial#mai
 - [Cohere AI](https://cohere.com/) - summariser
 - [Replit](https://replit.com/) – backend hosting and deployment
 - [Firebase](https://firebase.google.com/docs/ml-kit/recognize-text) - OCR
-- Various Machine Learning Algorithms
