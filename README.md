@@ -3,7 +3,6 @@
   <h3>Summarise your notes with just a click</h3>
 </div>
 
-![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
 
 ## Demo
