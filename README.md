@@ -14,7 +14,8 @@ https://github.com/AdwitaSingh1711/summarizer_by_cb/assets/108565358/5840521a-f4
 2. Images can be uploaded from the gallery and further be cropped to size.
 3. Summary is generated and can be exported to a PDF, which can be saved.
 
-Backend Deployed [here](https://replit.com/@adwitaSINGH1/new-summarisertrial#main.py)
+<!-- Backend Deployed [here](https://replit.com/@adwitaSINGH1/new-summarisertrial#main.py) -->
+Bzckend Deployed [here](https://replit.com/@adwitaSINGH1/Summariser-frontend)
 
 ## Contributors
 
