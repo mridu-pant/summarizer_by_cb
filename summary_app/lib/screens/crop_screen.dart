@@ -157,7 +157,8 @@ Future imageToTextForImages(List<String> croppedImages) async {
 
 Future getSummary() async {
   // Future.wait([imageToTextForImages(croppedImages)]);
-  final url = Uri.parse('https://adssi.pythonanywhere.com/return_summary');
+  //final url = Uri.parse('https://adssi.pythonanywhere.com/return_summary');
+  final url = Uri.parse('https://a35c9190-df59-4fe7-931d-bce597223e80-00-1fnf5spj9wp2e.pike.replit.dev/');
   final headers = {"Content-type": "application/json"};
   final response = await http.post(url, body: jsonEncode({'input_text': OCR_result}), headers: headers);
   // print(OCR_result);
